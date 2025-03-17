@@ -40,22 +40,7 @@ Aldy is a sixth-semester student at the Faculty of Computer Science, Universitas
 - Examined pollution levels (PM2.5, PM10, SO2, NO2, CO, O3) and meteorological factors (temperature, pressure, humidity, wind speed).  
 - Built an interactive dashboard using **Streamlit** for data visualization.  
 - Provided insights into pollution trends and meteorological correlations.  
-
-### **Data Analyst Project – AI & Job Salaries in ASEAN**  
-📅 October 2024  
-🔗 [GitHub Repository](https://github.com/aldyNaufal/Final-DAC-PedalRevo.git)  
-- Analyzed the impact of AI on worker salaries across ASEAN countries.  
-- Conducted statistical analysis on salary trends and AI adoption rates.  
-- Visualized insights to highlight AI-driven job market shifts.  
-- Proposed policy recommendations based on findings.  
-
-### **Data Analyst Project – Poverty Prediction with MLP**  
-📅 September 2024  
-🔗 [GitHub Repository](https://github.com/aldyNaufal/DAC2024-PedalRevo.git)  
-- Processed **SDGs dataset** to analyze poverty levels in multiple countries.  
-- Developed a **Multi-Layer Perceptron (MLP)** model to predict future poverty rates.  
-- Conducted feature selection and engineered predictive variables.  
-- Provided data-driven insights for poverty reduction strategies.  
+ 
 
 ### **Deep Learning Project – Generative Adversarial Network (GAN)**  
 📅 November 2024 — December 2024  
@@ -75,13 +60,29 @@ Aldy is a sixth-semester student at the Faculty of Computer Science, Universitas
 - Analyzed and compared classification accuracy.  
 - Documented methodologies and results.  
 
-### **Named Entity Recognition (NER) for Sports News**  
+### **Named Entity Recognition (NER) at Sport Domain**  
 📅 September 2024 — December 2024  
 🔗 [GitHub Repository](https://github.com/jonatyoung/NER_Olahraga.git)  
 - Implemented **BiLSTM** for sports-related entity recognition.  
 - Collected and preprocessed **Indonesian sports news data**.  
 - Used **POS tagging (Stanza) and word embeddings** for NER enhancement.  
 - Designed a scalable framework for Indonesian sports entity recognition.  
+
+### **Data Analyst Project – AI & Job Salaries in ASEAN**  
+📅 October 2024  
+🔗 [GitHub Repository](https://github.com/aldyNaufal/Final-DAC-PedalRevo.git)  
+- Analyzed the impact of AI on worker salaries across ASEAN countries.  
+- Conducted statistical analysis on salary trends and AI adoption rates.  
+- Visualized insights to highlight AI-driven job market shifts.  
+- Proposed policy recommendations based on findings.  
+
+### **Data Analyst Project – Poverty Prediction with MLP**  
+📅 September 2024  
+🔗 [GitHub Repository](https://github.com/aldyNaufal/DAC2024-PedalRevo.git)  
+- Processed **SDGs dataset** to analyze poverty levels in multiple countries.  
+- Developed a **Multi-Layer Perceptron (MLP)** model to predict future poverty rates.  
+- Conducted feature selection and engineered predictive variables.  
+- Provided data-driven insights for poverty reduction strategies. 
 
 ### **SQL Server Database Project**  
 📅 October 2023 — December 2023  
