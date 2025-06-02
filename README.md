@@ -1,93 +1,67 @@
-
-
-## 💼 Personal Portfolio Website
-
-### 📌 Deskripsi
-
-Ini adalah proyek web portofolio pribadi yang dibangun menggunakan **React + Vite**. Website ini berfungsi sebagai representasi profesional saya, menampilkan informasi tentang latar belakang, keahlian, serta proyek-proyek yang pernah saya kerjakan di bidang **Web & Mobile Development**, **Data Science**, dan **Machine Learning**.
+<h1 align="center">Hi there, I'm Aldy 👋</h1>
+<p align="center">
+  🚀 Full Stack Developer & AI Enthusiast | Passionate about building impactful digital solutions
+</p>
 
 ---
 
-### 🌐 Demo
+### 👨‍💻 Tentang Saya
 
-🔗 [Link Website Portofolio](https://my-porto-five-mu.vercel.app/)
-
----
-
-### 🛠️ Teknologi yang Digunakan
-
-| Area      | Teknologi                              |
-| --------- | -------------------------------------- |
-| Framework | React.js + Vite                        |
-| Styling   | React-Bootstrap, CSS custom            |
-| Routing   | React Router                           |
-| Ikon      | React Icons (FontAwesome)              |
-| Animasi   | CSS + Class `fade-in` / `fade-element` |
+Saya seorang mahasiswa Ilmu Komputer yang antusias dalam membangun solusi digital, mulai dari Web & Mobile Development hingga Data Science dan Machine Learning. Saya percaya bahwa teknologi seharusnya mempermudah hidup dan memberi dampak positif, terutama dalam menyelesaikan masalah nyata di sekitar kita.
 
 ---
 
-### ✨ Fitur Utama
+### 🛠️ Keahlian Utama
 
-#### 🧑 About Me
-
-* Menjelaskan siapa saya sebagai **Full Stack Developer & AI Engineer**
-* Penjelasan tentang latar belakang, motivasi, dan pendekatan terhadap pengembangan teknologi
-
-#### 🛠️ Skills
-
-* Web & Mobile Development: React.js, Vite, Bootstrap, REST API, Progressive Web App (PWA), dan Android Native (jika ada)
-* Data Science: Python, Pandas, Matplotlib, Big Data Processing
-* Machine Learning: Scikit-learn, TensorFlow, Deep Learning
-
-#### 📁 My Projects
-
-Website ini menampilkan tiga kategori utama proyek:
-
-1. **Web & Mobile Apps**
-   Mencakup pengembangan website responsif dan aplikasi Android, termasuk antarmuka pengguna yang interaktif dan pengalaman pengguna yang optimal.
-
-2. **Data Science**
-   Proyek analisis data, visualisasi interaktif, dan pengolahan data berskala besar.
-
-3. **Machine Learning**
-   Model kecerdasan buatan (AI) dan implementasi algoritma machine learning.
-
-> Masing-masing kategori proyek memiliki halaman tersendiri yang menampilkan proyek-proyek terkait secara mendetail.
+- 🌐 Web Development: React, Vite, Bootstrap, REST API, Laravel, Tailwind
+- 📱 Mobile Development: Android Native, Kotlin
+- 📊 Data Science: Python, Pandas, NumPy, Matplotlib, Seaborn
+- 🤖 Machine Learning: Scikit-learn, TensorFlow, PyTorch, NLP
+- 💻 Tools & Lainnya: Git, Figma, Firebase, Postman, Linux
 
 ---
 
-### 🚀 Cara Menjalankan Proyek Ini
+### 📌 Project Unggulan
 
-1. **Clone repositori**:
 
-   ```bash
-   git clone https://github.com/username/portfolio-website.git
-   cd portfolio-website
-   ```
+#### 1. 🎬 CineMatch — Personalized Movie Recommendations with Deep Learning
 
-2. **Install dependencies**:
+📌 GitHub: [aldyNaufal/movie-recommendation-system](https://github.com/aldyNaufal/movie-recommendation-system)
 
-   ```bash
-   npm install
-   ```
-
-3. **Jalankan server lokal**:
-
-   ```bash
-   npm run dev
-   ```
-
-4. **Akses di browser**:
-
-   ```
-   http://localhost:5173
-   ```
+Sistem rekomendasi film berbasis Neural Collaborative Filtering (NCF) yang menggabungkan embedding pengguna dan film dengan metadata tambahan (tahun rilis, rating rata-rata). Dibangun menggunakan TensorFlow dan dievaluasi dengan RMSE, MAE, R², serta korelasi Pearson dan Spearman. Cocok untuk platform OTT seperti Netflix dan Disney+.
 
 ---
 
+#### 2. 🌄 Natural Scene Image Classification
 
-### 📩 Kontak
+📌 GitHub: [aldyNaufal/image\_classification\_intel](https://github.com/aldyNaufal/image_classification_intel)
 
-* 💼 LinkedIn: [https://www.linkedin.com/in/aldy-naufal/](https://www.linkedin.com/in/aldy-naufal/)
-* 💻 GitHub: [https://github.com/aldyNaufal](https://github.com/aldyNaufal)
-* 📧 Email: [aldy.naufal02@gmail.com](aldy.naufal02@gmail.com)
+Proyek klasifikasi gambar pemandangan alam menggunakan CNN dengan dukungan TensorFlow. Model dilatih pada >20.000 gambar dan diekspor dalam format SavedModel, TensorFlow Lite, dan TensorFlow\.js untuk deployment ke web dan mobile.
+
+---
+
+#### 3. 🍲 Recipe Recommendation System with Deep Learning (Indonesian Cuisine Focus)
+
+📌 GitHub: [aldyNaufal/recipe-recommendation-system](https://github.com/aldyNaufal/recipe-recommendation-system)
+
+Sistem rekomendasi resep makanan yang dipersonalisasi, dirancang khusus untuk menyajikan rekomendasi masakan khas Indonesia. Menggunakan pendekatan Neural Collaborative Filtering (NCF) untuk memahami preferensi pengguna berdasarkan histori interaksi dan bahan masakan yang sering digunakan. Model dilatih untuk mengenali pola konsumsi resep Nusantara dan disimpan dalam format Keras.
+
+Model ini dilayani melalui REST API berbasis Flask yang mendukung inference real-time, memudahkan integrasi ke aplikasi mobile, frontend web, atau sistem internal. Dengan penekanan pada fleksibilitas, modularitas, dan skalabilitas, sistem ini ditujukan untuk platform digital kuliner yang ingin meningkatkan pengalaman pengguna lewat rekomendasi yang relevan dan lokal.
+
+
+
+
+---
+
+### 📫 Terhubung dengan Saya
+
+- 🌐 Website: https://my-porto-five-mu.vercel.app/
+- 💼 LinkedIn: [aldy-naufal](https://www.linkedin.com/in/aldy-naufal/)
+- 💻 GitHub: [aldyNaufal](https://github.com/aldyNaufal)
+- 📧 Email: aldy.naufal02@gmail.com
+
+---
+
+<p align="center">
+  Terima kasih sudah mampir ke profil saya! 🌟
+</p>
