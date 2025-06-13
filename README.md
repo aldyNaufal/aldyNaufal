@@ -55,7 +55,7 @@ Model ini dilayani melalui REST API berbasis Flask yang mendukung inference real
 
 ### 📫 Terhubung dengan Saya
 
-- 🌐 Website: https://my-porto-five-mu.vercel.app/
+- 🌐 Website: https://porto.aldynaufal.my.id/
 - 💼 LinkedIn: [aldy-naufal](https://www.linkedin.com/in/aldy-naufal/)
 - 💻 GitHub: [aldyNaufal](https://github.com/aldyNaufal)
 - 📧 Email: aldy.naufal02@gmail.com
